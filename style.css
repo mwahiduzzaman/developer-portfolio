@@ -16,6 +16,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .first-div{
     width: 60%;
@@ -33,4 +34,9 @@ p{
 .second-div{
     width: 40%;
     padding-left: 20px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+background-position: right;
+    background-repeat: no-repeat;
 }
